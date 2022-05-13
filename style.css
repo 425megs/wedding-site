@@ -14,6 +14,10 @@
     margin: auto;
 }
 
+h1 {
+    font-family: 'Ms Madi', cursive;
+}
+
 .Megan-QR {
     background-color: rgb(249, 209, 216);
     display: inline-block;
