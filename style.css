@@ -1,22 +1,23 @@
 * {
     margin: 0px;
+    padding: 0px;
 }
 
-.container {
+/* .container {
     display: inline;
     justify-content: space-between;
-}
+} */
 
-.main {
+/* .main {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: auto;
-}
+} */
 
-.stack {
+/* .stack {
     display: inline;
-}
+} */
 
 h1 {
     font-family: 'Ms Madi', cursive;
