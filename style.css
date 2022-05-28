@@ -3,6 +3,18 @@
     padding: 0px;
 }
 
+.banner {
+    min-width: 100vw;
+}
+
+.eng-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    max-width: 80%;
+}
+
 /* .container {
     display: inline;
     justify-content: space-between;
@@ -18,6 +30,10 @@
 /* .stack {
     display: inline;
 } */
+
+.page {
+    min-height: 100vh;
+}
 
 h1 {
     font-family: 'Ms Madi', cursive;
@@ -133,4 +149,9 @@ a:visited {
   box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
   color: rgba(0, 0, 0, 0.65);
   transform: translateY(0);
+}
+
+footer {
+    position: absolute;
+    min-width: 100vw;
 }
